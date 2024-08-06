@@ -1,0 +1,9 @@
+{
+	"name": "test-pruebas-si",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3a93a2c5-4d01-4023-8f08-03289d45c1d0",
+		"tenantId": "a6653656-2edf-41d7-bfd9-a7073cb346b6"
+	}
+}
